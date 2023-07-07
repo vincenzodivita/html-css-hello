@@ -1,10 +1,10 @@
-# HTML Hello World
+# HTML & CSS Hello World
 
-The simpliest html page of the world!
+Very simply html page in the world!
 
 ## Description
 
-This repository contains the famous "Hello World" program written in HTML code.
+This repository contains the famous "Hello World" program written in HTML and CSS codes.
 
 ## Getting Started
 Really?
@@ -18,7 +18,7 @@ Really?
 
 Well... Only me!
 
-## Acknowledgments
+## Other
 
-Inspiration, code snippets, etc.
-* [Colourful version](Coming soon...)
+Not so colourful version:
+* [htmlcss-hello](https://github.com/vincenzodivita/htmlcss-hello)
